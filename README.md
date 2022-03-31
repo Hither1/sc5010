@@ -8,4 +8,4 @@ In this project, we hope to compare the effectiveness of using other stocks to p
 2. [Exploratory Data Analysis](https://github.com/Hither1/sc5010/blob/main/EDA.ipynb)
 3. [Model 1: ](https://github.com/Hither1/sc5010/blob/main/Model1.ipynb)
 4. [Model 2, 3, and 4: ](https://github.com/Hither1/sc5010/blob/main/Model234.ipynb)
-5. [Model 5:]()
+5. [Model 5: SARIMA](https://github.com/Hither1/sc5010/blob/main/Model5.ipynb)
