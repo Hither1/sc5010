@@ -6,5 +6,5 @@ In this project, we hope to compare the effectiveness of using other stocks to p
 
 1. [Data Acquisition and Clean-up](https://github.com/Hither1/sc5010/blob/main/data.ipynb)
 2. [Exploratory Data Analysis](https://github.com/Hither1/sc5010/blob/main/EDA.ipynb)
-3. [Model 1: ]()
+3. [Model 1: ](https://github.com/Hither1/sc5010/blob/main/Model1.ipynb)
 4.
