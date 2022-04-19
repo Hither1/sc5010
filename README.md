@@ -16,7 +16,11 @@ In this project, we hope to compare the effectiveness of using other stocks to p
 - Are we able to predict the closing price of Google stocks using the stocks of other Information-Technology companies
 - Out of all the models we used, which one "best" predicts the Google price.
 ## Conclusion
-
+- All models can be used to predict Google stocks at relatively low mean-squared errors.
+- Model 4 Exponential Smoothing is the best model to predict Google stocks because it has the lowest mean-squared error. 
+- Model 3 Moving Average is the least suitable model among the 6 models to predict Google stocks because it has the highest mean-squared error.
 ## What did we learn from this project?
-
+- Decision Tree Regression, Moving Average, Exponential Smoothing and SARIMA
+- Other packages such as tqdm, itertools, statsmodels.api and warnings
+- Collaborating using GitHub
 ## References
