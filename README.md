@@ -24,4 +24,5 @@ In this project, we hope to compare the effectiveness of using other stocks to p
 - Other packages such as tqdm, itertools, statsmodels.api and warnings
 - Collaborating using GitHub
 ## References
-1. [A](https://www.scribbr.com/statistics/akaike-information-criterion/#:~:text=The%20Akaike%20information%20criterion%20(AIC,best%20fit%20for%20the%20data.)
+1. 
+2. https://www.scribbr.com/statistics/akaike-information-criterion/#:~:text=The%20Akaike%20information%20criterion%20(AIC,best%20fit%20for%20the%20data.
