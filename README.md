@@ -24,5 +24,6 @@ In this project, we hope to compare the effectiveness of using other stocks to p
 - Other packages such as tqdm, itertools, statsmodels.api and warnings
 - Collaborating using GitHub
 ## References
-1. 
+1. https://machinelearningmastery.com/remove-trends-seasonality-difference-transform-python/#:~:text=Differencing%20is%20a%20method%20of,structures%20like%20trends%20and%20seasonality.
 2. Akaike Information Criterion https://www.scribbr.com/statistics/akaike-information-criterion/#:~:text=The%20Akaike%20information%20criterion%20(AIC,best%20fit%20for%20the%20data.
+3. R. (2020, 24 juni). Cleaning Time Series Data : Time Series Talk [Video]. YouTube. https://www.youtube.com/watch?v=7_Js8h709Dw&feature=youtu.be
